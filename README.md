@@ -99,13 +99,12 @@ Mise en place de la RLS :
 
 ## 📁 Fichiers inclus
 
-📁 /projet-rh-powerbi
-├── employes.csv
+projet-rh-powerbi/
+├── employees.csv
 ├── absences.csv
 ├── rapport_rh.pbix
 ├── schema_modele_donnees.png
-├── README.md
-
+└── README.md
 
 ---
 
