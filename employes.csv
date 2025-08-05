@@ -1,0 +1,51 @@
+EmployeID,Nom,Sexe,Âge,Poste,BU,DateEmbauche,DateDépart,Salaire,Statut
+1,Nguyen,M,42,Comptable,Bordeaux,2022-02-07,,32572,Actif
+2,James,M,52,Data Analyst,Bordeaux,2023-05-10,,31070,Actif
+3,Wilson,M,60,Comptable,Lyon,2021-05-17,2023-01-08,49295,Sorti
+4,Saunders,F,39,Développeur,Lyon,2023-11-30,,37115,Actif
+5,Bernard,M,35,Développeur,Paris,2024-05-12,,37105,Actif
+6,Ward,F,31,Data Analyst,Paris,2022-08-20,2024-01-18,31169,Sorti
+7,Collins,F,41,Data Analyst,Lyon,2022-08-15,,43054,Actif
+8,Walker,F,30,RH,Lyon,2023-03-27,,48267,Actif
+9,Munoz,F,37,Data Analyst,Bordeaux,2020-12-16,,49668,Actif
+10,Nelson,F,30,Comptable,Bordeaux,2021-03-14,2022-12-30,40455,Sorti
+11,Watson,F,35,RH,Paris,2021-10-25,2024-03-14,34865,Sorti
+12,Zimmerman,M,35,Comptable,Bordeaux,2022-08-28,,43147,Actif
+13,George,M,45,Data Analyst,Bordeaux,2023-03-19,,54928,Actif
+14,Munoz,F,50,RH,Bordeaux,2021-02-01,2021-05-12,34913,Sorti
+15,Powers,F,38,Développeur,Paris,2020-10-16,,49064,Actif
+16,Johnson,F,33,Comptable,Lyon,2022-10-24,,46394,Actif
+17,Hickman,F,50,RH,Bordeaux,2022-11-12,,32532,Actif
+18,Dodson,M,28,Data Analyst,Bordeaux,2020-11-18,,48560,Actif
+19,Morrison,F,29,Développeur,Paris,2021-01-29,2023-07-04,47526,Sorti
+20,Perez,F,60,Data Analyst,Lyon,2023-09-07,,51616,Actif
+21,Juarez,F,46,Data Analyst,Paris,2021-08-15,2023-08-12,42246,Sorti
+22,Bailey,M,41,Comptable,Lyon,2021-10-11,2023-05-21,31486,Sorti
+23,Booth,F,57,Comptable,Bordeaux,2022-04-02,,40252,Actif
+24,Hall,M,45,Développeur,Bordeaux,2021-08-11,,31665,Actif
+25,Morgan,F,40,Data Analyst,Bordeaux,2021-04-18,,46591,Actif
+26,Simmons,M,56,Data Analyst,Lyon,2023-11-15,,53094,Actif
+27,Benson,F,60,Comptable,Paris,2022-11-20,2024-06-21,45290,Sorti
+28,Stokes,F,38,Comptable,Lyon,2024-08-03,,38214,Actif
+29,Spencer,F,53,Développeur,Bordeaux,2022-01-22,,36123,Actif
+30,Fitzgerald,F,26,Comptable,Lyon,2021-07-15,2025-07-16,35216,Sorti
+31,Schaefer,M,39,Data Analyst,Bordeaux,2020-12-18,2024-11-12,38827,Sorti
+32,Andrews,M,42,Développeur,Bordeaux,2021-06-12,2023-10-01,45669,Sorti
+33,Simon,F,40,Développeur,Paris,2021-09-04,2025-07-16,34239,Sorti
+34,Delgado,F,47,Développeur,Paris,2022-10-05,2024-02-02,43303,Sorti
+35,Quinn,M,31,Data Analyst,Paris,2021-06-22,,51862,Actif
+36,Taylor,M,40,Comptable,Bordeaux,2021-07-08,,45573,Actif
+37,Rodriguez,F,36,RH,Paris,2023-01-02,,36185,Actif
+38,Taylor,M,53,Data Analyst,Bordeaux,2022-05-17,,49369,Actif
+39,Bruce,M,30,Comptable,Bordeaux,2023-03-02,,41317,Actif
+40,Lozano,M,50,Data Analyst,Bordeaux,2020-08-26,,40418,Actif
+41,Casey,F,41,Développeur,Paris,2021-07-18,2023-08-28,41861,Sorti
+42,Cole,F,34,Comptable,Paris,2023-01-19,,35133,Actif
+43,Lester,M,45,Data Analyst,Bordeaux,2023-08-10,,47142,Actif
+44,Mendoza,M,28,Data Analyst,Bordeaux,2022-05-27,,30245,Actif
+45,Grant,M,50,Data Analyst,Lyon,2023-06-17,,36067,Actif
+46,Pierce,M,30,Développeur,Lyon,2021-07-30,,47125,Actif
+47,Macias,F,41,Comptable,Lyon,2022-07-13,,51468,Actif
+48,Ortiz,F,50,Comptable,Lyon,2022-05-11,,49151,Actif
+49,Graves,F,29,Data Analyst,Paris,2024-07-14,2025-02-07,48354,Sorti
+50,Daniels,M,29,Comptable,Lyon,2021-03-05,,36690,Actif
